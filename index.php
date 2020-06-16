@@ -1,3 +1,4 @@
+<pre>
 <html>  
   
 <head>  
@@ -10,9 +11,11 @@
    <center>
    <h1 >welcome to my server</h1>
  <?php
- print `ifconfig`
- print `free -m`
+ print `ifconfig`;
+ print `free -m`;
  ?>
    </center>
 </body>
 </html>
+</pre>
+
