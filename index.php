@@ -10,11 +10,11 @@
 <body bgcolor="orange">  
    <center>
    <h1 >welcome to my server</h1>
+   </center>
  <?php
  print `ifconfig`;
  print `free -m`;
  ?>
-   </center>
 </body>
 </html>
 </pre>
